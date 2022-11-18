@@ -1,0 +1,13 @@
+create
+1- windows server VM
+2- Resource group
+3- Network
+4- network interface
+5- attaching the network interface to the VM
+
+---------------------------------------------------
+The command you need to run to deply this code 
+
+AZ login
+terraform init
+terraform apply
