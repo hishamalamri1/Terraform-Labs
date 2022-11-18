@@ -1,0 +1,13 @@
+create
+1- Resource group
+2- Two subnets
+3- Network
+4- Network interface
+5- Public Ip address
+6- Using locals in this deployments
+---------------------------------------------------
+The command you need to run to deply this code 
+
+AZ login
+terraform init
+terraform apply
