@@ -1,0 +1,15 @@
+createed
+
+1- Resource group
+2- Network
+3- two subnets
+
+---------------------------------------------------
+The command you need to run, to deply this code are:
+
+AZ login
+terraform init
+terraform apply
+
+
+reagon is East US
